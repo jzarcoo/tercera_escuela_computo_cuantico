@@ -2,7 +2,7 @@
 
 1. Agregar la referencia al repositorio remoto original, al cual llamaremos «upstream»
 ```sh
-git remote add upstream
+git remote add upstream https://github.com/CECAv/tercera_escuela_computo_cuantico.git
 ```
 
 2. Traernos todas las ramas de dicho repositorio remoto
